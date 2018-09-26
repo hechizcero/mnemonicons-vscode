@@ -1,0 +1,31 @@
+{
+    "name": "mnemonicons",
+    "displayName": "Mnemo'n'Icons theme",
+    "description": "Understandables icons",
+    "version": "1.0.0",
+    "publisher": "hechizcero",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "icon": "banner-icon.png",
+    "galleryBanner": {
+        "color": "#830412",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hechizcero/mnemonicons-vscode"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "mnemonicons",
+                "label": "Mnemo'n'Icons theme",
+                "path": "./mnemonicons.json"
+            }
+        ]
+    }
+}
