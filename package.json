@@ -2,7 +2,7 @@
     "name": "mnemonicons",
     "displayName": "Mnemo'n'Icons theme",
     "description": "Understandables icons",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "hechizcero",
     "engines": {
         "vscode": "^1.0.0"
