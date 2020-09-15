@@ -119,6 +119,48 @@
         }, 
         "_gentext_file": {
             "iconPath": "./icons/icon_gentext_16.png"
+        },
+        "_dockerfile_file": {
+            "iconPath": "./icons/icon_dockerfile_16.png"
+        },
+        "_cfg_file": {
+            "iconPath": "./icons/icon_cfg_16.png"
+        },
+        "_conf_file": {
+            "iconPath": "./icons/icon_conf_16.png"
+        },
+        "_env_file": {
+            "iconPath": "./icons/icon_env_16.png"
+        },
+        "_eot_file": {
+            "iconPath": "./icons/icon_eot_16.png"
+        },
+        "_gz_file": {
+            "iconPath": "./icons/icon_gz_16.png"
+        },
+        "_htaccess_file": {
+            "iconPath": "./icons/icon_htaccess_16.png"
+        },
+        "_htpasswd_file": {
+            "iconPath": "./icons/icon_htpasswd_16.png"
+        },
+        "_sass_file": {
+            "iconPath": "./icons/icon_sass_16.png"
+        },
+        "_sh_file": {
+            "iconPath": "./icons/icon_sh_16.png"
+        },
+        "_tar_file": {
+            "iconPath": "./icons/icon_tar_16.png"
+        },
+        "_tpl_file": {
+            "iconPath": "./icons/icon_tpl_16.png"
+        },
+        "_woff_file": {
+            "iconPath": "./icons/icon_woff_16.png"
+        },
+        "_woff2_file": {
+            "iconPath": "./icons/icon_woff2_16.png"
         }
     },
     "folderExpanded": "_folder_open_dark",
@@ -128,10 +170,18 @@
     "rootFolder": "_root_folder_dark",
     "fileExtensions": {
         "bmp": "_bmp_file",
+        "cfg": "_cfg_file",
+        "conf": "_conf_file",
         "css": "_css_file",  
         "csv": "_csv_file",
+        "env": "_env_file",
+        "eot": "_eot_file",
         "eps": "_eps_file",
-        "gif": "_gif_file",  
+        "gif": "_gif_file", 
+        "gitignore": "_gentext_file",
+        "gz": "_gz_file",
+        "htaccess": "_htaccess_file",
+        "htpasswd": "_htpasswd_file",
         "html": "_html_file",
         "htm": "_html_file",
         "jpg": "_jpg_file",
@@ -146,19 +196,25 @@
         "py": "_py_file",
         "rb": "_rb_file",
         "rtf": "_rtf_file",
-        "sass": "_scss_file",
+        "sass": "_sass_file",
         "scss": "_scss_file",
+        "sh": "_sh_file",
         "sql": "_sql_file",        
         "styl": "_styl_file",
         "svg": "_svg_file",
+        "tar": "_tar_file",
+        "tpl": "_tpl_file",
         "ts": "_ts_file",
         "txt": "_txt_file",
         "vue": "_vue_file",
+        "woff": "_woff_file",
+        "woff2": "_woff2_file",
         "yml": "_yml_file",
-        "xml": "_xml_file",
-        "htaccess": "_gentext_file",
-        "gitignore": "_gentext_file"
+        "xml": "_xml_file"
     },
+	"languageIds": {
+	    "dockerfile": "_dockerfile_file"
+	},
     "light": {
         "folderExpanded": "_folder_open_light",
         "folder": "_folder_light",
